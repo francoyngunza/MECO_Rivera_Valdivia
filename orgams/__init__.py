@@ -31,7 +31,7 @@ def Tiempo_largo():
 
 class C(BaseConstants):
     NAME_IN_URL = 'organ_donation'
-    PLAYERS_PER_GROUP = None
+    PLAYERS_PER_GROUP = 4
     NUM_ROUNDS = 400
     CHANGE_COST = 0.75
     
